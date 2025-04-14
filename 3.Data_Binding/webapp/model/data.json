@@ -1,0 +1,21 @@
+{
+	"panelHeaderText": "User List",
+	"users": [
+	  {
+		"firstName": "Harry",
+		"lastName": "Hawk",
+		"enabled": true
+	  },
+	  {
+		"firstName": "Luna",
+		"lastName": "Lovegood",
+		"enabled": false
+	  },
+	  {
+		"firstName": "Ron",
+		"lastName": "Weasley",
+		"enabled": true
+	  }
+	]
+  }
+  
