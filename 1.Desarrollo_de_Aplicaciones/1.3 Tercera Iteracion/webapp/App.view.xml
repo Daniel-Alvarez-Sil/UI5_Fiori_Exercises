@@ -49,19 +49,3 @@
 	</App>
 </mvc:View>
 
-<!-- Segunda Iteración -->
-<!-- <mvc:View
-	controllerName="ui5.quickstart.App"
-	displayBlock="true"
-	xmlns="sap.m"
-	xmlns:mvc="sap.ui.core.mvc">
-	<App>
-		<Page title="My App">
-			<Button
-				text="Steady..."
-				press=".onPress"
-				type="Emphasized"
-				class="sapUiSmallMargin"/>
-		</Page>
-	</App>
-</mvc:View> -->

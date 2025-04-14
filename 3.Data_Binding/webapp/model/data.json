@@ -15,6 +15,11 @@
 		"firstName": "Ron",
 		"lastName": "Weasley",
 		"enabled": true
+	  }, 
+	  {
+		"firstName": "Daniel",
+		"lastName": "Alvarez",
+		"enabled": true
 	  }
 	]
   }
