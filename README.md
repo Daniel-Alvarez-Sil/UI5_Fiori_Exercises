@@ -70,11 +70,8 @@ A continuación, se despliega la documentación para cada uno de los ejercicios 
   - [1.2: Introducción a vistas y controladores.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/1.Desarrollo_de_Aplicaciones/1.2.Segunda_Iteracion/README.md)
   - [1.3: Adición de conceptos más complejos.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/1.Desarrollo_de_Aplicaciones/1.3.Tercera_Iteracion/README.md)
 - 2:	Implementar navegación de Apps.
-  - 2.1: Introducción a navegación y rutas.
-  - ___2.2: Ejercicio para agregar una ruta.*___
-- 3:	Data Binding y controles en SAPUI5 en el contexto de Fiori. 
-  - Data binding a partir de un modelo JSON. 
-- 4:	Consumo y manipulación de servicios OData en aplicaciones Fiori.
-  - Consumo de un servicio OData para desplegar información. 
-- 5:	Consumo de ODatas en controles de aplicaciones Fiori.
-  - ___Modificación del ejercicio anterior con funcionalidad añadida, incluyendo una barra de búsqueda con controles de SAP.*___
+  - [2.1: Introducción a navegación y rutas.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/2.Navegacion_de_Apps/2.1.Dos_Botones/README.md)
+  - [___2.2: Ejercicio para agregar una ruta.*___](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/2.Navegacion_de_Apps/2.2.Tres_Botones/README.md)
+- 3:	[Data Binding y controles en SAPUI5 en el contexto de Fiori.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/3.Data_Binding/README.md)
+- 4:	[Consumo y manipulación de servicios OData en aplicaciones Fiori.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/4.Consumo_OData/README.md)
+- 5:	[Consumo de ODatas en controles de aplicaciones Fiori.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/5.Consumo_OData_con_Control/README.md)
