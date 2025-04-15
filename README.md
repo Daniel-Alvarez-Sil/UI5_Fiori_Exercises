@@ -23,6 +23,9 @@ Ejercicios :
 ## Ambiente de desarrollo. 
 ### Prerequisitos
 Uso de Visual Studio Code como editor de código. 
+> Extensiones de VS Code (Opcional):
+> - UI5 Language Assistant
+> - UI5 Explorer
 
 ### Sistema Operativo 
 Para estos ejercicios, se utiliza Linux (Ubuntu). Debido a esto, si no se tiene Ubuntu como OS, se debe instalar WSL (Windows Subsytem for Linux). 
@@ -74,4 +77,4 @@ A continuación, se despliega la documentación para cada uno de los ejercicios 
   - [___2.2: Ejercicio para agregar una ruta.*___](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/2.Navegacion_de_Apps/2.2.Tres_Botones/README.md)
 - 3:	[Data Binding y controles en SAPUI5 en el contexto de Fiori.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/3.Data_Binding/README.md)
 - 4:	[Consumo y manipulación de servicios OData en aplicaciones Fiori.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/4.Consumo_OData/README.md)
-- 5:	[Consumo de ODatas en controles de aplicaciones Fiori.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/5.Consumo_OData_con_Control/README.md)
+- 5:	[___Consumo de ODatas en controles de aplicaciones Fiori.*___](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/5.Consumo_OData_con_Control/README.md)
