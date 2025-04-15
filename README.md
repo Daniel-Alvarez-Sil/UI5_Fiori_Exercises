@@ -65,3 +65,16 @@ Ya está todo listo, puedes clonar el repositorio para comenzar a trabajar con c
  
 ## Documentación. 
 A continuación, se despliega la documentación para cada uno de los ejercicios mencionados. 
+- 1:	Desarrollo de aplicaciones con SAPUI5 freestyle.
+  - [1.1: Ejemplo básico.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/1.Desarrollo_de_Aplicaciones/1.1.Primera_Iteracion/README.md)
+  - [1.2: Introducción a vistas y controladores.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/1.Desarrollo_de_Aplicaciones/1.2.Segunda_Iteracion/README.md)
+  - [1.3: Adición de conceptos más complejos.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/1.Desarrollo_de_Aplicaciones/1.3.Tercera_Iteracion/README.md)
+- 2:	Implementar navegación de Apps.
+  - 2.1: Introducción a navegación y rutas.
+  - ___2.2: Ejercicio para agregar una ruta.*___
+- 3:	Data Binding y controles en SAPUI5 en el contexto de Fiori. 
+  - Data binding a partir de un modelo JSON. 
+- 4:	Consumo y manipulación de servicios OData en aplicaciones Fiori.
+  - Consumo de un servicio OData para desplegar información. 
+- 5:	Consumo de ODatas en controles de aplicaciones Fiori.
+  - ___Modificación del ejercicio anterior con funcionalidad añadida, incluyendo una barra de búsqueda con controles de SAP.*___
