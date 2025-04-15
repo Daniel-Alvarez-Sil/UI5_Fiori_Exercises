@@ -21,6 +21,9 @@ Ejercicios :
   - ___Modificación del ejercicio anterior con funcionalidad añadida, incluyendo una barra de búsqueda con controles de SAP.*___
 
 ## Ambiente de desarrollo. 
+### Prerequisitos
+Uso de Visual Studio Code como editor de código. 
+
 ### Sistema Operativo 
 Para estos ejercicios, se utiliza Linux (Ubuntu). Debido a esto, si no se tiene Ubuntu como OS, se debe instalar WSL (Windows Subsytem for Linux). 
 [Instalar WSL](https://learn.microsoft.com/es-mx/windows/wsl/install)
