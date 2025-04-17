@@ -42,15 +42,17 @@ wsl --install -d Ubuntu
 ### Dependencias
 Instalar Node.js y npm, [documentación](https://nodejs.org/en/download/)
 ```bash
-# Download and install fnm:
+# Instalar FAST Node Manager:
 curl -o- https://fnm.vercel.app/install | bash
-# Download and install Node.js:
-fnm install 22
-# Verify the Node.js version:
-node -v # Should print "v22.14.0".
-# Verify npm version:
-npm -v # Should print "10.9.2".
+# Instalar Node.js:
+fnm install 23
+# Verificar instalación:
+node -v # "v23.11.0".
+# Verificar versión de npm:
+npm -v # "10.9.2".
 ```
+> Nota:
+> Si ya se cuenta con Node.js, se debe actualizar a la versión más reciente, al igual que npm. 
 
 Instalar Yeoman
 - Yeoman es una herramienta de scaffolding open source para aplicaciones web modernas. Te ayuda a iniciar nuevos proyectos rápidamente, siguiendo buenas prácticas y utilizando herramientas que aumentan tu productividad.
