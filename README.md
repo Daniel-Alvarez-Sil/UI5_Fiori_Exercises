@@ -19,6 +19,10 @@ Ejercicios :
   - Consumo de un servicio OData para desplegar información. 
 - 5:	Consumo de ODatas en controles de aplicaciones Fiori.
   - ___Modificación del ejercicio anterior con funcionalidad añadida, incluyendo una barra de búsqueda con controles de SAP.*___
+- 6:  Ejercico Final.
+  - Extensión de una aplicación con controles Smart.
+  - Transporte de aplicaciones.
+  - Publicación de aplicaciones en el Fiori Launchpad. 
 
 ## Ambiente de desarrollo. 
 ### Prerequisitos
@@ -80,3 +84,4 @@ A continuación, se despliega la documentación para cada uno de los ejercicios 
 - 3:	[Data Binding y controles en SAPUI5 en el contexto de Fiori.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/3.Data_Binding/README.md)
 - 4:	[Consumo y manipulación de servicios OData en aplicaciones Fiori.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/4.Consumo_OData/README.md)
 - 5:	[___Consumo de ODatas en controles de aplicaciones Fiori.*___](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/5.Consumo_OData_con_Control/README.md)
+- 6: [Ejercicio Final.](https://github.com/Daniel-Alvarez-Sil/UI5_Fiori_Exercises/blob/master/6.Ejercicio_Final/README.md)
