@@ -8,6 +8,7 @@ Adicionalmente, en este ejercicio, se comienza a analizar el concepto de data bi
 
 Para ejecutar, se deben correr los siguientes comandos en este directorio. 
 ```bash
+cd webapp/
 npm install
 npm start
 ```

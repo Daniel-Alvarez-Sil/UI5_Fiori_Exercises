@@ -4,6 +4,7 @@ Ejercicio práctico para agregar un nuevo botón a la página principal que dire
 
 Para ejecutar, se deben correr los siguientes comandos en este directorio. 
 ```bash
+cd webapp/
 npm install
 npm start
 ```

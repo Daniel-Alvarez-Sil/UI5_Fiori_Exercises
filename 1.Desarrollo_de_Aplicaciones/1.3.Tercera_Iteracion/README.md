@@ -4,6 +4,7 @@ Proyecto con un botón que, al seleccionarlo, cambia de página dentro de la mis
 
 Para ejecutar, se deben correr los siguientes comandos en este directorio. 
 ```bash
+cd webapp/
 npm install
 npm start
 ```

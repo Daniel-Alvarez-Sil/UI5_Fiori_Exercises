@@ -4,6 +4,7 @@ Ejercicio práctico para extraer información de un archivo .JSON. Introducción
 
 Para ejecutar, se deben correr los siguientes comandos en este directorio. 
 ```bash
+cd webapp/
 npm install
 npm start
 ```
