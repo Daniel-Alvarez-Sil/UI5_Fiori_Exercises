@@ -33,6 +33,9 @@ yo easy-ui5 project model
 | Do you want to set up a proxy for the new model?                         | Yes                                                          |
 | Do you want to set up a route (xs-app.json) and destination for your new model? | No                                                       |
 
+> Nota:
+> Este proceso ya fue realizado para generar este proyecto. Sin embargo, se explica para que el usuario pueda generar sus propias aplicaciones utilizando el cliente en la terminal. 
+
 Posteriormente, se establecieron los programas pertenecientes a este proyecto para implementar el objetivo mencionado en el primer párrafo. 
 
 Para ejecutar, se deben correr los siguientes comandos en este directorio. 
