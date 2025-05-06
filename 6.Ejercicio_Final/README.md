@@ -63,16 +63,20 @@ npm run deploy
 ```
 
 ## 6.3. Publicación de Aplicaciones. 
-En SAP BTP Cockpit, agregar las siguientes suscripciones: 
+En SAP BTP Cockpit, agrega la siguiente suscripción: 
 - Cloud Identity Services
-- SAP Build Work Zone
   
 ![image](https://github.com/user-attachments/assets/5e6e8c73-5b77-4203-bec5-43232059d96f)
 
 Por favor espera a que la suscripción se termine de instalar y, cuando el proceso haya terminado, revisa tu correo para terminar de registrar la suscripción. 
 
-Después, por favor instala SAP Build Work Zone. 
-![image](https://github.com/user-attachments/assets/f512c3da-968b-4f80-8c35-e1fda0d90373)
+Después, por favor aplica un Booster a tu SubAccount de SAP BTP Cockpit. 
+![image](https://github.com/user-attachments/assets/b9a6d204-e7d2-4a9a-8117-c63b7244a065)
+![image](https://github.com/user-attachments/assets/7af0ebbb-d209-4b37-a6de-f1a21b9e550f)
+![image](https://github.com/user-attachments/assets/08e67117-5638-4168-8ef8-eb3e5f2946dc)
+![image](https://github.com/user-attachments/assets/f69f7c40-5bf3-4860-8448-a5ec2ef90524)
+En el segundo paso de la instalación del Booster, debes seleccionar tu SubAccount. En los demás pasos, se debe mantener la información por default. 
+
 
 Después, ve a las siguientes pestañas "Security > Role Collections". Selecciona la opción de Launchpad_Admin. 
 ![image](https://github.com/user-attachments/assets/10978fdd-0701-488c-9f36-ebee47463202)
@@ -85,6 +89,7 @@ Da clic en __Save (Guardar)__.
 Añade una nueva destinación para el servicio de Northwind. 
 ![image](https://github.com/user-attachments/assets/759b5a76-93e3-4c12-abf5-c52078d4c274)
 ![image](https://github.com/user-attachments/assets/5f4499ad-2a90-4a4e-8df4-ec13c848c479)
+
 Guarda tus cambios. 
 
 Ahora, entra a SAP Build Work Zone, dirígete a Channel Manager y selección el botón para refrescar: 
