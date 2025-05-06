@@ -75,6 +75,7 @@ Después, por favor aplica un Booster a tu SubAccount de SAP BTP Cockpit.
 ![image](https://github.com/user-attachments/assets/7af0ebbb-d209-4b37-a6de-f1a21b9e550f)
 ![image](https://github.com/user-attachments/assets/08e67117-5638-4168-8ef8-eb3e5f2946dc)
 ![image](https://github.com/user-attachments/assets/f69f7c40-5bf3-4860-8448-a5ec2ef90524)
+
 En el segundo paso de la instalación del Booster, debes seleccionar tu SubAccount. En los demás pasos, se debe mantener la información por default. 
 
 
